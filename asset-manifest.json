@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/MyPortfolio/static/css/main.a8cb1245.css",
-    "main.js": "/MyPortfolio/static/js/main.c6f6861b.js",
+    "main.js": "/MyPortfolio/static/js/main.73e4b18c.js",
     "static/media/remixicon.svg?t=1681573354175": "/MyPortfolio/static/media/remixicon.7b85b7f8453487681fc4.svg",
     "static/media/ott2.png": "/MyPortfolio/static/media/ott2.32e68d85c9e5664d6174.png",
     "static/media/ecom2.png": "/MyPortfolio/static/media/ecom2.e68f3d2018f77af975c1.png",
@@ -17,7 +17,7 @@
     "static/media/textsummarytool.jpg": "/MyPortfolio/static/media/textsummarytool.0f4e45115cdfec6a5e0b.jpg",
     "static/media/flightdelayprediction2.jpg": "/MyPortfolio/static/media/flightdelayprediction2.22319156c94e4476adf2.jpg",
     "static/media/pyImage.png": "/MyPortfolio/static/media/pyImage.cb6dee0032b3173564d4.png",
-    "static/media/Vishranth_resume__july2024.pdf": "/MyPortfolio/static/media/Vishranth_resume__july2024.0a5349006b2feafd8a03.pdf",
+    "static/media/Vishranth_resume__july2024.pdf": "/MyPortfolio/static/media/Vishranth_resume__july2024.0efe58bcb6d1b5501138.pdf",
     "static/media/mysql.png": "/MyPortfolio/static/media/mysql.48faf36579a368914213.png",
     "static/media/images_java3.png": "/MyPortfolio/static/media/images_java3.375f91150aebfc2e19ef.png",
     "static/media/java.svg": "/MyPortfolio/static/media/java.fc6a133132d8267c2e002fad0aefb83e.svg",
@@ -27,10 +27,10 @@
     "index.html": "/MyPortfolio/index.html",
     "static/media/figma.svg": "/MyPortfolio/static/media/figma.7bb0659e5f4269faf5ae4212f1b2c537.svg",
     "main.a8cb1245.css.map": "/MyPortfolio/static/css/main.a8cb1245.css.map",
-    "main.c6f6861b.js.map": "/MyPortfolio/static/js/main.c6f6861b.js.map"
+    "main.73e4b18c.js.map": "/MyPortfolio/static/js/main.73e4b18c.js.map"
   },
   "entrypoints": [
     "static/css/main.a8cb1245.css",
-    "static/js/main.c6f6861b.js"
+    "static/js/main.73e4b18c.js"
   ]
 }

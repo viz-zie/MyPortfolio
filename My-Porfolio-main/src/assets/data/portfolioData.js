@@ -1,12 +1,12 @@
-import portfolioImg01 from "../images/ecom2.png";
+import portfolioImg01 from "../images/ecom6a.png";
 import portfolioImg02 from "../images/ott2.png";
 import portfolioImg03 from "../images/portfolio-03.jpg";
 import portfolioImg04 from "../images/simon.png";
 import portfolioImg05 from "../images/textsummarytool.jpg";
 import portfolioImg06 from "../images/portfolio-06.jpg";
 import portfolioImg07 from "../images/portfolio-07.jpg";
-import portfolioImg08 from "../images/flightdelayprediction2.jpg";
-import portfolioImg09 from "../images/gclassification.png";
+import portfolioImg08 from "../images/flightdelayprediction3.jpg";
+import portfolioImg09 from "../images/garbage_classification3.jpg";
 
 const portfolios = [
   {

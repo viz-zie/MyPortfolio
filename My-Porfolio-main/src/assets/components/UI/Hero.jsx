@@ -1,7 +1,7 @@
 import React from 'react';
 // import heroImg from '../../images/hero.svg';
 // import frontimageImg from '../../images/frontimage.svg';
-import vishranth from '../../images/Snapseed.jpg';
+import vishranth from '../../images/Snapseed3.jpg';
 // import nodedotjsImg from '../../images/nextdotjs.svg';
 
 
